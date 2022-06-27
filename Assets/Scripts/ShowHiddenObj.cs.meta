@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 033f0316e6de01a4180a4df9e7e859e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - monument: {fileID: 4815618662852290296, guid: ac33bedf0a58ecb469f0df64a57655f4, type: 3}
+  - button: {instanceID: 0}
+  - model: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
